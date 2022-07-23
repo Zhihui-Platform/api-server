@@ -1,0 +1,6 @@
+[book]
+authors = ["Wu Chengyu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Zhihui Platform API Server Guide"
